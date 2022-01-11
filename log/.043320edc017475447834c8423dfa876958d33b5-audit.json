@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "log\\.043320edc017475447834c8423dfa876958d33b5-audit.json",
+    "files": [
+        {
+            "date": 1641800031803,
+            "name": "log\\tro-withdrwal-cronjob-2022-01-10-13.log",
+            "hash": "6981a252cd6939f8a410874cf58ae6f9"
+        },
+        {
+            "date": 1641806175831,
+            "name": "log\\tro-withdrwal-cronjob-2022-01-10-14.log",
+            "hash": "a98453a665f97f66c22fbffbc04f17ef"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": ".dff1b3fca9cd9e464e0154d7a1d768daf33aac58-audit.json",
+    "files": [
+        {
+            "date": 1640200765464,
+            "name": "tro-withdrwal-cronjob-2021-12-23-00.log",
+            "hash": "bab26834a3e399aa409c5417e5b62a6c"
+        },
+        {
+            "date": 1640202998928,
+            "name": "tro-withdrwal-cronjob-2021-12-23-01.log",
+            "hash": "28b14381e85252e388f0d77a04da7742"
+        },
+        {
+            "date": 1641301998886,
+            "name": "tro-withdrwal-cronjob-2022-01-04-18.log",
+            "hash": "276aca423ba331616bcc11eb22cb53c8"
+        }
+    ]
+}
