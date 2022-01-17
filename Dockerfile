@@ -6,6 +6,9 @@ WORKDIR /app
 
 COPY ./package*.json ./
 
+ENV ENV NODE_ENV ${NODE}
+ENV PRIVATE_KEY ${PRIVATE_KEY}
+
 RUN yarn install
 
 COPY . .
