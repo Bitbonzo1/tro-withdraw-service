@@ -10,10 +10,12 @@ docker build --build-arg COMMIT=${commitID}  --build-arg BRANCH=${branch} --buil
 Tag an image for this project:
 
 docker tag SOURCE_IMAGE[:TAG] reg.trodl.com/trodl/tro-withdraw[:TAG]
+
 docker tag SOURCE_IMAGE[:TAG] reg.trodl.com/trodl/tro-withdraw[:TAG]
 
 ## Push an image to trodl project:
 
 docker push reg.trodl.com/trodl/tro-withdraw[:TAG]
+
 docker push reg.trodl.com/trodl/tro-withdraw[:TAG]
 
